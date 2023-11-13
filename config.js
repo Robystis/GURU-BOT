@@ -7,14 +7,14 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254113419479', 'NICK', true],
+  ['254710772666', 'Ibrahim', true],
   ['254739937062', 'BERLIN', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "254739937062" //put your bot number here
 
-global.mods = ['254113419479','254113419479'] 
+global.mods = ['254729252969','254729252969'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
 global.allowed = ['917605902011', '32460248586', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'NICK'
-global.premium = 'true'
-global.packname = 'nick' 
-global.author = '@nick' 
+global.botname = 'Berlin'
+global.premium = 'Berlin'
+global.packname = 'Berlin' 
+global.author = '@berlin' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
